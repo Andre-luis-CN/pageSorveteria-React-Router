@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pageSorveteria-React-Router/static/css/main.dadfdfb0.css",
-    "main.js": "/pageSorveteria-React-Router/static/js/main.6641ddd1.js",
+    "main.js": "/pageSorveteria-React-Router/static/js/main.c1b3e4f9.js",
     "static/media/banner-sobre.png": "/pageSorveteria-React-Router/static/media/banner-sobre.e958a86cc903592d30f0.png",
     "static/media/sorveteria.jpg": "/pageSorveteria-React-Router/static/media/sorveteria.12b4dd18376307d7b514.jpg",
     "static/media/sorbet-kiwi.png": "/pageSorveteria-React-Router/static/media/sorbet-kiwi.1d686a3cd99dad58f590.png",
@@ -17,10 +17,10 @@
     "static/media/sobre-image.jpg": "/pageSorveteria-React-Router/static/media/sobre-image.64e81a3845601828d9e6.jpg",
     "index.html": "/pageSorveteria-React-Router/index.html",
     "main.dadfdfb0.css.map": "/pageSorveteria-React-Router/static/css/main.dadfdfb0.css.map",
-    "main.6641ddd1.js.map": "/pageSorveteria-React-Router/static/js/main.6641ddd1.js.map"
+    "main.c1b3e4f9.js.map": "/pageSorveteria-React-Router/static/js/main.c1b3e4f9.js.map"
   },
   "entrypoints": [
     "static/css/main.dadfdfb0.css",
-    "static/js/main.6641ddd1.js"
+    "static/js/main.c1b3e4f9.js"
   ]
 }
