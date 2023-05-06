@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pageSorveteria-React-Router/static/css/main.dadfdfb0.css",
+    "main.js": "/pageSorveteria-React-Router/static/js/main.82d65b5c.js",
+    "static/media/banner-sobre.png": "/pageSorveteria-React-Router/static/media/banner-sobre.e958a86cc903592d30f0.png",
+    "static/media/sorveteria.jpg": "/pageSorveteria-React-Router/static/media/sorveteria.12b4dd18376307d7b514.jpg",
+    "static/media/sorbet-kiwi.png": "/pageSorveteria-React-Router/static/media/sorbet-kiwi.1d686a3cd99dad58f590.png",
+    "static/media/sorbet-morango.png": "/pageSorveteria-React-Router/static/media/sorbet-morango.b6d74417c9d1255f2dcd.png",
+    "static/media/sabor-oreo.png": "/pageSorveteria-React-Router/static/media/sabor-oreo.7c5ef5b688af5a016dae.png",
+    "static/media/sorbet-limao.png": "/pageSorveteria-React-Router/static/media/sorbet-limao.528da3c8081e6c295875.png",
+    "static/media/sabor-pistache.png": "/pageSorveteria-React-Router/static/media/sabor-pistache.e246c4968935d9a1c95c.png",
+    "static/media/eventos-image.jpg": "/pageSorveteria-React-Router/static/media/eventos-image.52db016e72e58ed0f60a.jpg",
+    "static/media/sabor-cookies-avela.png": "/pageSorveteria-React-Router/static/media/sabor-cookies-avela.6d9a4635039a0394a488.png",
+    "static/media/banner-sabores.jpg": "/pageSorveteria-React-Router/static/media/banner-sabores.0e325a982b455ed9676c.jpg",
+    "static/media/lostchacos copy.png": "/pageSorveteria-React-Router/static/media/lostchacos copy.f48d503ffede0202f939.png",
+    "static/media/lostchacos2.jpg": "/pageSorveteria-React-Router/static/media/lostchacos2.786c381bf4912baed759.jpg",
+    "static/media/sobre-image.jpg": "/pageSorveteria-React-Router/static/media/sobre-image.64e81a3845601828d9e6.jpg",
+    "index.html": "/pageSorveteria-React-Router/index.html",
+    "main.dadfdfb0.css.map": "/pageSorveteria-React-Router/static/css/main.dadfdfb0.css.map",
+    "main.82d65b5c.js.map": "/pageSorveteria-React-Router/static/js/main.82d65b5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dadfdfb0.css",
+    "static/js/main.82d65b5c.js"
+  ]
+}
