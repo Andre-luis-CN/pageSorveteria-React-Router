@@ -1,0 +1,64 @@
+.home-cards {
+    display: flex;
+}
+
+.card-img {
+    width: 50%;
+    height: auto;
+}
+
+.cards {
+    width: 50%;
+    text-align: center;
+    padding: 100px 40px;
+    background-color: #DADBDD;
+}
+
+.title-card {
+    font-size: 38px;
+    text-transform: uppercase;
+}
+
+.description-card {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.text-card {
+    text-align: left;
+    margin-top: 35px;
+    line-height: 30px;
+}
+
+@media (max-width: 768px) {
+    .home-cards {
+        flex-direction: column;
+    }
+
+    #evento {
+        flex-direction: column-reverse;
+    }
+
+    .card-img {
+        width: 100%;
+    }
+
+    .cards {
+        width: 100%;
+        padding: 100px 100px;
+    }
+
+    .text-card {
+        text-align: center;
+    }
+}
+
+@media (max-width: 435px) {
+    .cards {
+        padding: 100px 0px;
+    }
+
+    .text-card {
+        padding: 0 80px;
+    }
+}

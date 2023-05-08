@@ -1,0 +1,35 @@
+footer {
+    background: #52595D;
+    color: #fff;
+}
+
+.container-footer {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 5px;
+}
+
+.rodape-img {
+    width: 150px;
+}
+
+.text-name {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.cards-footer {
+    width: 200px;
+}
+
+@media(max-width: 768px) {
+    .container-footer {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .cards-footer {
+        margin-bottom: 30px;
+    }
+}

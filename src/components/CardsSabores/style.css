@@ -1,0 +1,36 @@
+.container-card-sabores {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 70px 20px;
+}
+
+.card-sabores {
+    width: calc((100% / 3) - 20px);
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 25px;
+    line-height: 26px;
+    box-shadow: 2px 2px 15px 2px #d9dde1;
+}
+
+.card-sabores img {
+    width: 250px;
+    height: 250px;
+}
+
+.sabores-title-card {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+@media (max-width: 768px) {
+    .container-card-sabores {
+        flex-direction: column;
+    }
+
+    .card-sabores {
+        width: 80%;
+    }
+}
