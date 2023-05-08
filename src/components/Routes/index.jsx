@@ -8,7 +8,7 @@ import Sobre from "../../pages/Sobre";
 
 
 const Rotas = () => ( 
-    <HashRouter>
+    <HashRouter basename = "/">
         <Routes>
             <Route exact path="/" element={ <Home/> } />
             <Route path="/Sabores" element={ <Sabores/> }/>
